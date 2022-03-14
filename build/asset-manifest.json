@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/minhnduit/note-keeper-reactjs/static/js/main.1a6075e9.chunk.js",
+    "main.js.map": "/minhnduit/note-keeper-reactjs/static/js/main.1a6075e9.chunk.js.map",
+    "runtime-main.js": "/minhnduit/note-keeper-reactjs/static/js/runtime-main.6e504fbd.js",
+    "runtime-main.js.map": "/minhnduit/note-keeper-reactjs/static/js/runtime-main.6e504fbd.js.map",
+    "static/js/2.32b9d141.chunk.js": "/minhnduit/note-keeper-reactjs/static/js/2.32b9d141.chunk.js",
+    "static/js/2.32b9d141.chunk.js.map": "/minhnduit/note-keeper-reactjs/static/js/2.32b9d141.chunk.js.map",
+    "index.html": "/minhnduit/note-keeper-reactjs/index.html",
+    "precache-manifest.f5a73309236152a2be23c8db441a3ccc.js": "/minhnduit/note-keeper-reactjs/precache-manifest.f5a73309236152a2be23c8db441a3ccc.js",
+    "service-worker.js": "/minhnduit/note-keeper-reactjs/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e504fbd.js",
+    "static/js/2.32b9d141.chunk.js",
+    "static/js/main.1a6075e9.chunk.js"
+  ]
+}
